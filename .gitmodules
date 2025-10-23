@@ -1,0 +1,3 @@
+[submodule "yolov12"]
+	path = yolov12
+	url = https://github.com/lhseokool/yolov12
